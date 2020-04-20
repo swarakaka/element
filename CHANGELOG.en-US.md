@@ -1,5 +1,12 @@
 ## Changelog
 
+### 2.13.2
+
+*2020-04-20*
+
+#### New language
+- Add Kurdish Language (Kurdish Sorani - ckb )
+
 ### 2.13.1
 
 *2020-04-13*
